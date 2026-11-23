@@ -1,6 +1,5 @@
-<img width="1779" height="884" alt="image" src="https://github.com/user-attachments/assets/88681a3b-86bf-4665-9d5c-1343d5dcfe92" /># behavioural_cloninghttps://github.com/sergio-omar/behavioural_cloning/edit/main/README.md
+<img width="1779" height="884" alt="image" src="https://github.com/user-attachments/assets/88681a3b-86bf-4665-9d5c-1343d5dcfe92" /># 
 
-![Uploading Pine-Lined Roadside Drive.png…]()
 
 
 Definetly one of the most fun projects I've work on.
